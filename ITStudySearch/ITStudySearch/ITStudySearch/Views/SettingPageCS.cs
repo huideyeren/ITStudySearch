@@ -85,7 +85,7 @@ namespace ITStudySearch.Views
                                     },
                                     new Label
                                     {
-                                        Text = "IT勉強会検索",
+                                        Text = "IT勉強会検索+",
                                         YAlign = TextAlignment.Center,
                                         HorizontalOptions = LayoutOptions.EndAndExpand,
                                     },
@@ -108,7 +108,7 @@ namespace ITStudySearch.Views
                                     },
                                     new Label
                                     {
-                                        Text = "v 0.0.2",
+                                        Text = "v 0.0.3",
                                         YAlign = TextAlignment.Center,
                                         HorizontalOptions = LayoutOptions.EndAndExpand,
                                     },
@@ -131,7 +131,7 @@ namespace ITStudySearch.Views
                                     },
                                     new Label
                                     {
-                                        Text = "Yoshito Tabuchi",
+                                        Text = "Yoshito Tabuchi, Takakura Yusuke",
                                         YAlign = TextAlignment.Center,
                                         HorizontalOptions = LayoutOptions.EndAndExpand,
                                     },

@@ -27,6 +27,7 @@
     <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <ReleaseVersion>0.0.3</ReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

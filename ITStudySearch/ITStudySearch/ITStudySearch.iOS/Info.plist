@@ -23,9 +23,9 @@
 	<key>MinimumOSVersion</key>
 	<string>7.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>IT勉強会検索</string>
+	<string>IT勉強会検索+</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.gmail.xlsoft.ytabuchi.ITStudySearch</string>
+	<string>info.huideyeren.ITStudySearch</string>
 	<key>CFBundleVersion</key>
 	<string></string>
 	<key>CFBundleIconFiles</key>
@@ -42,6 +42,8 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>CFBundleShortVersionString</key>
-	<string>0.0.2</string>
+	<string>0.0.3</string>
+	<key>CFBundleName</key>
+	<string>IT勉強会検索+</string>
 </dict>
 </plist>

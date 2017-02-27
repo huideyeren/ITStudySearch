@@ -175,7 +175,7 @@ namespace ITStudySearch.Views
 
             #endregion
 
-            Title = " IT 勉強会検索";
+            Title = " IT勉強会検索+";
             Content = new StackLayout
             {
                 Children = {
