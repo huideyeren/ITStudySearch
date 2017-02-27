@@ -1,22 +1,9 @@
-﻿<Properties StartupConfiguration="{4E597702-BD96-40CA-A465-2D23D5492E50}|Default">
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ITStudySearch" expanded="True">
-            <Node name="ITStudySearch" expanded="True">
-              <Node name="Properties" expanded="True" />
-              <Node name="Views" expanded="True" />
-            </Node>
-            <Node name="ITStudySearch.Droid" expanded="True">
-              <Node name="ConnectedServicesFolder" selected="True" />
-              <Node name="Resources" expanded="True" />
-            </Node>
-            <Node name="ITStudySearch.iOS" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
+﻿<Properties StartupConfiguration="{A5AE6530-E592-45A5-97E9-E99F4E1DDA98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ITStudySearch/ITStudySearch.iOS/packages.config">
+    <Files>
+      <File FileName="ITStudySearch/ITStudySearch.iOS/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="ITStudySearch/ITStudySearch.iOS/packages.config" Line="1" Column="1" />
+    </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.ITStudySearch.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0208730E-2D6E-48EB-95FF-C299D417CF80" />
